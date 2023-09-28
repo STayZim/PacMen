@@ -1,6 +1,6 @@
 # PacMen Exercise
 
-<img src="PacMan1.png" width="300"/>
+<img src="Images/PacMan1.png" width="300"/>
 
 This project uses JavaScript, HTML and images files to create interactive mouseclick buttons to call a factory function to create the "PacMan" image upon every click.  The second button animates those images using programatic coding to define velocity and direction within defined coordinates.
 
